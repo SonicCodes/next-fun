@@ -1,0 +1,24 @@
+{
+  "name": "next-fun",
+  "version": "1.0.0",
+  "description": "Inline Server-Side Functions for Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonicCodes/next-fun.git"
+  },
+  "keywords": [
+    "Next.js",
+    "Page",
+    "routes"
+  ],
+  "author": "Rami Mohammed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonicCodes/next-fun/issues"
+  },
+  "homepage": "https://github.com/SonicCodes/next-fun#readme"
+}
