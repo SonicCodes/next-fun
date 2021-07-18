@@ -14,6 +14,9 @@ module.exports = {
                         options.defaultLoaders.babel,
                         {
                             loader: require.resolve("./loader.js"),
+                            options: {
+                                dir_name: __dirname
+                            }
                         }
                     ],
                 })
