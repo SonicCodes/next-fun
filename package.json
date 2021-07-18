@@ -1,6 +1,6 @@
 {
   "name": "next-fun",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Inline Server-Side Functions for Next.js",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SonicCodes/next-fun/issues"
   },
-  "homepage": "https://github.com/SonicCodes/next-fun#readme"
+  "homepage": "https://github.com/SonicCodes/next-fun#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
 }
