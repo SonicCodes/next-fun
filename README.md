@@ -7,14 +7,14 @@ I've been working on a project for a while now and I've found myself writing a l
 ## How?
 1. Install
 ```bash
-npm install -i @scaleai/next-fun
+npm install -i next-fun
 ```
 ```bash
-yarn add @scaleai/next-fun
+yarn add next-fun
 ```
 2. Configure next-fun on your next.config.js file
 ```js
-const {withNextFun} = require("@scaleai/next-fun");
+const {withNextFun} = require("next-fun");
 
 module.exports = withNextFun({
     //other configs
