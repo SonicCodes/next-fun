@@ -1,5 +1,8 @@
 # NextFun
-Inline Serverside functions for next.js page routes, what does that mean?
+Inline Serverside functions for next.js page routes, 
+
+## What?
+next-fun is a way to execute inline functions on your server without compromises. just add $ to any function in your page routes and it'll automatically become a serverside function.
 
 ## Why?
 I've been working on a project for a while now and I've found myself writing a lot of code in the api route. I wanted to make it easier to write and maintain mini server-side code.
