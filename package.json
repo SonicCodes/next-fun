@@ -1,6 +1,6 @@
 {
   "name": "next-fun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inline Server-Side Functions for Next.js",
   "main": "index.js",
   "scripts": {
